@@ -78,7 +78,7 @@ Name=Cool Application
 StartupNotify=false
 Terminal=false
 TerminalOptions=
-Type=Application" > ~/.local/share/applications/App.desktop'
+Type=Application
 ```
 
 Hope this is useful.
