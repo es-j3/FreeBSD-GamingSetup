@@ -27,7 +27,8 @@ pkg install Mizuma
 ```
 Pros: Windows Game Support is good
 
-Cons: March 2024 build of Steam, not sure how long that'll last
+Cons: Slightly worse performance compared to Proton (you can switch to it, if you want)
+~~March 2024 build of Steam, not sure how long that'll last~~ As of 23 April 2025, Steam now works under Wine
 
 #### steam-bottler
 > Expect some bias, because this is my project!
