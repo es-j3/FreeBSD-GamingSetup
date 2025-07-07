@@ -16,7 +16,7 @@ pkg install linux-steam-utils
 ```
 Pros: Very matured, great for running Linux Games
 
-Cons: Proton support isn't the best, AMD and Intel performance is Limited
+Cons: AMD and Intel performance is Limited
 
 #### Mizutamari
 
